@@ -10,6 +10,7 @@ public class Bensa {
 	public static void main(String[] args) {
 		System.out.println("Bensan kulutus on "+BensanKulutus+" litraa.");
 		System.out.println("Matkalle tulee hintaa "+matkanHinta+" euroa.");
+		System.out.println("Matkalle tulee hintaa "+matkanHinta+" euroassss.");
 	}
 
 }
